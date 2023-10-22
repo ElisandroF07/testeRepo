@@ -20,7 +20,7 @@ export const Form = () => {
 				Hi, Wellcome Back!
 			</h1>
 			<p className='font-light text-[14px] mt-[15px] text-[#767676]'>
-				Hello again Bro, you've been missed!
+				Hello again, you've been missed!
 			</p>
 		</div>
       	<form onSubmit={handleSubmit(createUser)} className='mt-[30px] flex flex-col gap-[20px] w-[400px]'>
