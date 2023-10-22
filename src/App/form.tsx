@@ -21,6 +21,7 @@ export const Form = () => {
 			</h1>
 			<p className='font-light text-[14px] mt-[15px] text-[#767676]'>
 				Hello again, you've been missed! Somuch baby!
+				Now we will make an login system!
 			</p>
 		</div>
       	<form onSubmit={handleSubmit(createUser)} className='mt-[30px] flex flex-col gap-[20px] w-[400px]'>
